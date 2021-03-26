@@ -5,7 +5,7 @@
 
 
 - Aqui nesse git você encontrar projetos meus que fiz durante faculdade e porejtos que fiz para faculdade.
-===================================================================================================================
+=======================================================================================================
 
 - 👋 Hello, I'm Matheus Silveira
 - 🌱 I am in the last year of systems analysis and development.
