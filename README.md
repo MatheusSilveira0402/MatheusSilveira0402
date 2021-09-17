@@ -1,3 +1,9 @@
+
+
+<a href="https://github.com/matheussilveira0402">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheussilveira0402&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussilveira0402&layout=compact&langs_count=7&theme=dark"/>
+	
 - 👋 Olá eu sou Matheus Silveira
 - 🌱 Estou no ultimo ano de analise e desenvolvimento de sistemas.
 - 💞️ Amo muito a programação quero me tonar expecialista em js e nodejs
@@ -15,11 +21,6 @@
 
 - Here in this git you can find projects of mine that I did during college and porejtos that I did for college. 
 ==================================================================================================
-
-<a href="https://github.com/matheussilveira0402">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheussilveira0402&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussilveira0402&layout=compact&langs_count=7&theme=dark"/>
-	
 <div style="display: inline_block"><br>
 	<img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 	<img align="center" alt="Math-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
