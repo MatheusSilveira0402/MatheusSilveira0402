@@ -1,10 +1,12 @@
-<h1> Olá sou Matheus <h1>
+<h3> Olá sou Matheus <h3>
 
 <a href="https://github.com/matheussilveira0402">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheussilveira0402&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussilveira0402&layout=compact&langs_count=7&theme=dark"/>
 </a>
-<p>Aqui tem todos meu projetos pessoais e academicos</p>
+	<p>
+	- Aqui tem todos meu projetos pessoais e academicos em sua grande maioria projetos webs, utilizando nodeJs, BootStrap, JavaScript e Mongodb.
+	</p>
 <div style="display: inline_block"><br>
 	<img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 	<img align="center" alt="Math-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
