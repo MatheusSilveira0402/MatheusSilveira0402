@@ -4,26 +4,8 @@
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheussilveira0402&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussilveira0402&layout=compact&langs_count=7&theme=dark"/>
 </a>
-<p>	
-- 👋 Olá eu sou Matheus Silveira
-- 🌱 Estou no ultimo ano de analise e desenvolvimento de sistemas.
-- 💞️ Amo muito a programação quero me tonar expecialista em js e nodejs
-- 📫 Atualmente moro no brasil, porém tenho grande sonho de morar no canadá.
-
-
-- Aqui nesse git você encontrar projetos meus que fiz durante faculdade e porejtos que fiz para faculdade.
-==================================================================================================
-
-- 👋 Hello, I'm Matheus Silveira
-- 🌱 I am in the last year of systems analysis and development.
-- 💞️ I love programming so much I want to become an expert in js and nodejs
-- 📫 Currently I live in Brazil, but I have a great dream of living in Canada.
-
-
-- Here in this git you can find projects of mine that I did during college and porejtos that I did for college. 
-==================================================================================================
-	
-</p>
+<h1> Olá sou Matheus <h1>
+	<p>Aqui tem todos meu projetos pessoais e academicos</p>
 <div style="display: inline_block"><br>
 	<img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 	<img align="center" alt="Math-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
