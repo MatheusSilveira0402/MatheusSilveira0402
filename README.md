@@ -23,7 +23,7 @@
 	<img align="center" alt="Math-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg">
 	<img align="center" alt="Math-Npm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/npm/npm-original-wordmark.svg">
 	<img align="center" alt="Math-Vue.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-	<img align="center" alt="Math-PM2" height="30" width="40" src="https://pm2.io/assets/pm2-logo-1.png">
+	<img align="center" alt="Math-PM2" height="30" width="12%" src="https://pm2.io/assets/pm2-logo-1.png">
 </div>
 <div style="display: inline_block"><br>
 	<h2>S.O & IDE'S</h2>
