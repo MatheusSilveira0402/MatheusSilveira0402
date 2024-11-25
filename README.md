@@ -1,6 +1,25 @@
-<h3> Olá sou Matheus <h3>
+<h3> Olá sou Matheus  <h3>
 	<p>
-	- Aqui tem todos meu projetos pessoais e academicos em sua grande maioria projetos webs, utilizando nodeJs, BootStrap, JavaScript e Mongodb.
+		Aqui tenho projetos pessoais, academicos e freelance que foram desenvolvidos por mim.
+		Principais stack que utilizadas.
+		Front-End:
+			Flutter;
+   			Vue.js;
+      			React.js;
+	 		React-native.js;
+    			javaScript;
+       			dart;
+		Back-End:
+  			Java;
+     			Node.js;
+			Php;
+			C#;
+   			Python;
+		Banco de dados:
+  			MySql;
+     			MariaDB;
+			PostgreSQL;
+			MongoDB;
 	</p>
 <div>
   <a href="https://github.com/matheussilveira0402">
