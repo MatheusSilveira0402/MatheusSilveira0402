@@ -4,25 +4,25 @@
 		Principais stack que utilizadas.
 		<br/>
 		Front-End:
-			Flutter;
-   			Vue.js;
-      			React.js;
-	 		React-native.js;
-    			javaScript;
-       			dart;
+			Flutter ;
+   			Vue.js ;
+      			React.js ;
+	 		React-native.js ;
+    			javaScript ;
+       			dart ;
 		<br/>
 		Back-End:
-  			Java;
-     			Node.js;
-			Php;
-			C#;
-   			Python;
+  			Java ;
+     			Node.js ;
+			Php ;
+			C# ;
+   			Python ;
 		<br/>
 		Banco de dados:
-  			MySql;
-     			MariaDB;
-			PostgreSQL;
-			MongoDB;
+  			MySql ;
+     			MariaDB ;
+			PostgreSQL ;
+			MongoDB ;
 	</p>
 <div>
   <a href="https://github.com/matheussilveira0402">
