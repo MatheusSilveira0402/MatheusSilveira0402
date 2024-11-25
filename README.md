@@ -2,6 +2,7 @@
 	<p>
 		Aqui tenho projetos pessoais, academicos e freelance que foram desenvolvidos por mim.
 		Principais stack que utilizadas.
+		<br/>
 		Front-End:
 			Flutter;
    			Vue.js;
@@ -9,12 +10,14 @@
 	 		React-native.js;
     			javaScript;
        			dart;
+		<br/>
 		Back-End:
   			Java;
      			Node.js;
 			Php;
 			C#;
    			Python;
+		<br/>
 		Banco de dados:
   			MySql;
      			MariaDB;
