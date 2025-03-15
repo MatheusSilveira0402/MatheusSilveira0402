@@ -59,9 +59,21 @@
 
 </div>
 	
-<div> 
-	<a href = "mailto:matheussilveirasergio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-	<a href="https://www.linkedin.com/in/matheus-silveira-sergio-885aa5182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-	<img src="https://github.com/MatheusSilveira0402/MatheusSilveira0402/blob/output/github-contribution-grid-snake.svg" alt="" style="max-width:100%;">
+<div style="margin-top: 20px; text-align: center;">
+    <h2>📬 Entre em Contato</h2>
+    <p>Fique à vontade para me chamar!</p>
+    
+    <a href="mailto:matheussilveirasergio@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    
+    <a href="https://www.linkedin.com/in/matheus-silveira-sergio-885aa5182/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+
+    <a href="https://github.com/matheussilveira0402" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    </a>
 </div>
+
 
